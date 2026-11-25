@@ -47,6 +47,6 @@ python main.py
 
 The main objective of this project is to learn Python programming concepts such as regular expressions, file handling, functions, loops, and conditional statements through a practical application.
 
-👩‍💻 Author
+## Author
 
 Created as a beginner Python project.
