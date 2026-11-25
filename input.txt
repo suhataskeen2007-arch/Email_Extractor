@@ -1,0 +1,10 @@
+Hello, my name is John.
+My email address is john@gmail.com.
+
+You can contact Sara at sara123@yahoo.com.
+
+For business inquiries:
+business@example.com
+
+Another email address is alex@gmail.com.
+
