@@ -49,6 +49,6 @@ The main objective of this project is to learn Python programming concepts such 
 
 ## Author
 
-Suha Taskeen
+**Suha Taskeen**
 
 Beginner Python Developer | Learning Python Programming and Building Projects
